@@ -1,5 +1,5 @@
+//Código baseado no código de https://blog.eletrogate.com/jogo-em-lcd-no-arduino/
 //Código Jump Boy se o botão estiver pulando sozinho, nesse caso é necessário montar o circuito do botão mostrado no documento.
-
 
 #include <LiquidCrystal.h>
 #define PIN_BUTTON A10 //escolher aqui o pino que será destino ao botão
