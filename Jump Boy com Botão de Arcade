@@ -2,7 +2,7 @@
 //Utilização do botão de Arcade na porta A10, com a outra extremidade no Ground
 
 #include <LiquidCrystal.h>
-#define PIN_BUTTON A10
+#define PIN_BUTTON A10 //escolha aqui qual pino será utilizado como botão
 
 #define PIN_AUTOPLAY 1
 #define PIN_READWRITE 10
